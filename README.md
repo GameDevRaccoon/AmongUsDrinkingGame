@@ -14,4 +14,3 @@
     * Two additional if Crewmates win via tasks
 * Finish your drink if you were caught coming/going from a vent
 * Finish your drink if you were caught on cameras killing
-* 
