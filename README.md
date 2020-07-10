@@ -1,10 +1,12 @@
 # Among Us Drinking Game
 ## Mid-Game
 ### General
+
 #### Drink
 * You get killed
 * You accuse someone and they get falsely removed
 * Skipped or Tied vote
+
 ## Post-Game Lobby
 * Imposter win (Crewmates drink)
     * One drink per Imposter still alive
