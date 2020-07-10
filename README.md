@@ -1,4 +1,4 @@
-# Among Us Drinking Game ![]("C:\\com\\konna\\AmongUsDrinkingGame\\Cyan.png")
+# Among Us Drinking Game ![](https://github.com/GameDevRaccoon/AmongUsDrinkingGame/blob/master/Cyan.png)
 ## Mid-Game
 ### General
 
